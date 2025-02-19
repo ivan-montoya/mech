@@ -1,5 +1,6 @@
 {
     "dev": {
+        "custom/imontoya/coingecko_api/0.1.0": "bafybeidlqk4g6djofkl6gpymhyg2nd2zawutg2eirtgeexqhkgaz5esh4i",
         "custom/imontoya/coinbase_commerce_request/0.1.0": "bafybeicm4yuasg5lihupbl63q6ttj666tvo5ztj6gq54q4yw77elwzetji",
         "protocol/valory/acn_data_share/0.1.0": "bafybeidcsknfwrifklzz2rp57eri5x3tv72tgjn5k7opauagtxiw3agbvy",
         "protocol/valory/websocket_client/0.1.0": "bafybeibpdrbicrvegv74phyjxglq2hcce7abyz3ateuyoq5up6ilmz7n4q",
