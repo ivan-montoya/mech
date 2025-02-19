@@ -1,0 +1,14 @@
+name: coinbase_commerce_request
+author: imontoya
+version: 0.1.0
+type: custom
+description: A tool that allows mech to interact with the Coinbase Commerce API.
+license: Apache-2.0
+aea_version: '>=1.0.0, <2.0.0'
+fingerprint:
+  __init__.py: bafybeiafya3tax5voulmtq4gj52vbibyufvforxfld6476et7n4vfome7i
+  coinbase_commerce_request.py: bafybeidbf32vfmqhsgf6htsfzmj5jhec4wiqvwlxpiek4xegy7sqgpaiz4
+fingerprint_ignore_patterns: []
+entry_point: coinbase_commerce_request.py
+callable: run
+dependencies: {}
